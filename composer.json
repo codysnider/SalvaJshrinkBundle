@@ -1,5 +1,5 @@
 {
-    "name": "salva/jshrink-bundle",
+    "name": "codysnider/jshrink-bundle",
     "description": "This bundle integrate jshrink library as Assetic filter and twig extension",
     "keywords": [
         "Assetic",
@@ -15,13 +15,19 @@
         {
             "name": "Nibsirahsieu",
             "email": "nibsirahsieu@gmail.com",
-            "role": "Lead Developer"
+            "role": "Original Developer"
         },
         {
             "name": "Emanuele Minotto",
             "email": "minottoemanuele@gmail.com",
             "homepage": "http://emanueleminotto.github.io/",
-            "role": "Collaborator"
+            "role": "Original Developer"
+        },
+        {
+            "name": "Cody Snider",
+            "email": "cody@codysnider.com",
+            "homepage": "https://codysnider.com/",
+            "role": "Maintainer"
         }
     ],
     "require": {
